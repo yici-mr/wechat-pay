@@ -4,7 +4,7 @@
 class parameter
 {
     const pay_api = "https://api.mch.weixin.qq.com/pay/unifiedorder";
-    public function parameters($key){
+    public function parameters(){
         $data = [
             'appid'=>APPID,
             'mch_id'=>MCH_ID,
