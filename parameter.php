@@ -42,7 +42,7 @@ class parameter
         <nonce_str>{$arr['nonce_str']}</nonce_str>
         <notify_url>{$arr['notify_url']}</notify_url>
         <out_trade_no>{$arr['out_trade_no']}</out_trade_no>
-        <spbill_create_ip>{$arr['appid']}</spbill_create_ip>
+        <spbill_create_ip>{$arr['spbill_create_ip']}</spbill_create_ip>
         <total_fee>{$arr['total_fee']}</total_fee>
         <trade_type>{$arr['trade_type']}</trade_type>
         <scene_info>{$arr['scene_info']}</scene_info>
